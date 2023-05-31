@@ -1,2 +1,2 @@
 # ?-4
-I will try to release a new ai called ?-4 it would be used to anaylyze tic tac toe games which are popular in some countries lol don't ask.
+I, will be realising ?-4 soon or the src code of the whole thing for you guys. It is a new ai for snake game i made that will once be the dominate as more knowledge i will get, follow my journey.
